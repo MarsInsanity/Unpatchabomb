@@ -42,6 +42,7 @@ Even thought EasyExploits might be compatible, WE DO NOT RECOMMEND OR CONDONE TH
 # Credits
 ---
 UI Designer - MarsQQ 
+Assistance - Vegie
 Based off: https://v3rmillion.net/showthread.php?tid=935813 by Angeld23
 
 - MarsQQ <3
