@@ -45,5 +45,10 @@ UI Designer - MarsQQ
 Assistance - Vegie
 Based off: https://v3rmillion.net/showthread.php?tid=935813 by Angeld23
 
+---
+# DISCLAIMER
+---
+Do not use this on a Main Account, and please use a vpn.
+
 - MarsQQ <3
 
