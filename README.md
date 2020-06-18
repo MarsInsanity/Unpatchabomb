@@ -30,7 +30,6 @@ The Paid Programs above should work well with this Script, as they all have SetC
 Not everyone has Paid Programs however, so we have a list of Free Programs we can recommend you to use with this script.
 If you cannot find these Exploits, search them up on Youtube.
 
----
 Sona
 KRNL/Kraken Z (They're basically the same with just one major difference)
 Fluxus
